@@ -21,4 +21,6 @@ BMI: Body Mass Index
 Heart Rate: heart rate - In medical research, variables such as heart rate though in fact discrete, yet are considered continuous because of large number of possible values.
 Glucose: glucose level
 Target variable to predict
-TenYearCHD: 10 year risk of coronary heart disease (binary: “1:Yes”, “0:No”)
+TenYearCHD: 10 year risk of coronary heart disease (binary: “1:Yes”, “0:No”
+
+IF you cant open it here try open it in jupyter notebook
